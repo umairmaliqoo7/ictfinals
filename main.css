@@ -1,0 +1,538 @@
+.bg-image {
+    background-image: url(images/Air-University.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+.nav-b {
+    background-color: rgba(255, 252, 252, 0.116);
+    margin-top: -.5rem;
+    margin-left: -1rem;
+    opacity: 100%;
+    width: 82rem;
+    height: 3rem;
+}
+
+.h-1 {
+    color: rgb(255, 255, 255);
+    margin-top: -4rem;
+    cursor: pointer;
+}
+
+.h-2 {
+    color: rgb(255, 255, 255);
+    margin-top: -3.5rem;
+    margin-left: 30rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+
+.h-3 {
+    color: rgb(231, 224, 224);
+    margin-top: -2.6rem;
+    margin-left: 42rem;
+    font-size: .7rem;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.h-4 {
+    color: rgb(255, 255, 255);
+    margin-top: -2.6rem;
+    margin-left: 49rem;
+    font-size: .7rem;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.h-5 {
+    color: rgb(230, 225, 225);
+    margin-top: -2.6rem;
+    margin-left: 59rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+
+.nav-search-container {
+    float: left;
+    margin-left: 65rem;
+    margin-top: -2.4rem;
+    cursor: pointer;
+}
+
+.navbar {
+    background-color: rgba(228, 228, 228, 0.116);
+    width: 82rem;
+    height: 3rem;
+    margin-left: -1rem;
+}
+
+.n-1 {
+    color: rgb(247, 241, 241);
+    margin-top: -3rem;
+    margin-left: 13rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+
+.n-2 {
+    color: rgb(247, 241, 241);
+    margin-top: -2.5rem;
+    margin-left: 18.2rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+
+.n-3 {
+    color: rgb(247, 241, 241);
+    margin-top: -2.6rem;
+    margin-left: 24rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+
+.n-4 {
+    color: rgb(247, 241, 241);
+    margin-top: -2.6rem;
+    margin-left: 32.2rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+
+.n-5 {
+    color: rgb(247, 241, 241);
+    margin-top: -2.54rem;
+    margin-left: 40.5rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+
+.n-6 {
+    color: rgb(247, 241, 241);
+    margin-top: -2.6rem;
+    margin-left: 48.3rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+
+.n-7 {
+    color: rgb(247, 241, 241);
+    margin-top: -2.6rem;
+    margin-left: 57.5rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+
+.n-8 {
+    color: rgb(247, 241, 241);
+    margin-top: -2.6rem;
+    margin-left: 65rem;
+    font-size: .7rem;
+    cursor: pointer;
+}
+
+.adcs {
+    color: rgb(247, 241, 241);
+    font-size: 3rem;
+    margin-top: 10rem;
+    text-align: center;
+}
+
+.button {
+    margin-top: 10rem;
+    margin-left: 4rem;
+    float: left;
+    width: 70rem;
+    height: 2.5rem;
+    background-color: rgb(87, 77, 201);
+    cursor: pointer;
+}
+
+.btn-text {
+    font-size: -1rem;
+    text-align: center;
+}
+
+.dropdown {
+    float: left;
+    margin-left: 1rem;
+    margin-top: -4.5rem;
+    width: 77rem;
+}
+
+.navbar a:hover,
+.dropdown:hover .dropbtn {
+    background-color:   rgb(87, 77, 201);
+}
+
+.dropdown-content {
+    display: none;
+    text-align: center;
+    font-size: 3rem;
+    background-color: rgb(87, 77, 201);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.card {
+    width: 20%;
+    height: 20%;
+    margin-top: 19.6rem;
+    margin-left: 10rem;
+    cursor: pointer;
+}
+
+.card:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.campus {
+    color: rgb(20, 20, 20);
+    font-size: 1rem;
+    margin-left: 34rem;
+    float: left;
+    margin-top: 2rem;
+}
+
+.card-2 {
+    width: 41.5%;
+    margin-top: -18.5rem;
+    margin-left: 29rem;
+    cursor: pointer;
+}
+
+.card-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.card-3 {
+    width: 41.5%;
+    margin-top: 1rem;
+    margin-left: 10rem;
+    cursor: pointer;
+}
+
+.card-3:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.card-4 {
+    width: 20%;
+    margin-top: -19.2rem;
+    margin-left: 46.5rem;
+    cursor: pointer;
+}
+
+.card-4:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.button-1 {
+    background-color:   rgb(87, 77, 201);
+    margin-top: 3rem;
+    text-align: center;
+    margin-left: 31rem;
+    height: 2.5rem;
+    width: 15rem;
+    cursor: pointer;
+}
+
+.grey {
+    background-color: rgba(128, 128, 128, 0.123);
+}
+
+.academics {
+    color: rgb(20, 20, 20);
+    font-size: 1rem;
+    margin-left: 34rem;
+    float: left;
+    margin-top: 1rem;
+}
+
+.card-1-0 {
+    width: 20%;
+    height: 30rem;
+    margin-top: 5rem;
+    margin-left: 10rem;
+    cursor: pointer;
+}
+
+.card-1-0:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.card-2-0 {
+    width: 100%;
+    height: 30rem;
+    margin-top: -28rem;
+    margin-left: 20rem;
+    cursor: pointer;
+}
+
+.card-2-0:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.card-3-0 {
+    width: 100%;
+    height: 29rem;
+    margin-top: -29.5rem;
+    margin-left: 20rem;
+    cursor: pointer;
+}
+
+.card-3-0:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.button-2 {
+    background-color:   rgb(87, 77, 201);;
+    margin-top: 2rem;
+    text-align: center;
+    margin-left: 1rem;
+    height: 2.5rem;
+    width: 15rem;
+    cursor: pointer;
+}
+
+.events {
+    color: rgb(20, 20, 20);
+    font-size: 1rem;
+    margin-left: 34rem;
+    float: left;
+    margin-top: 1rem;
+}
+
+.card-1-1 {
+    width: 45%;
+    height: 53rem;
+    margin-top: 10rem;
+    margin-left: 2rem;
+    cursor: pointer;
+}
+
+.card-2-1 {
+    width: 100%;
+    height: 20rem;
+    margin-top: -20.8rem;
+    margin-left: 38rem;
+    cursor: pointer;
+}
+
+.card-3-1 {
+    width: 100%;
+    height: 20rem;
+    margin-top: 0rem;
+    margin-left: -20rem;
+    cursor: pointer;
+}
+
+.button-3 {
+    background-color:   rgb(87, 77, 201);
+    margin-top: 3rem;
+    text-align: center;
+    margin-left: -9rem;
+    height: 2.5rem;
+    width: 15rem;
+    cursor: pointer;
+}
+
+.dark {
+    background-color: rgba(128, 128, 128, 0.123);
+}
+.card-1-2 {
+    width: 20%;
+    height: 30rem;
+    margin-top: 5rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+.card-1-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.card-2-2 {
+    width: 100%;
+    height: 30rem;
+    margin-top: -28rem;
+    margin-left: 20rem;
+    cursor: pointer;
+}
+
+.card-2-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+
+.card-3-2 {
+    width: 100%;
+    height: 30rem;
+    margin-top: -30.5rem;
+    margin-left: 20rem;
+    cursor: pointer;
+}
+
+.card-3-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+.card-4-2 {
+    width: 100%;
+    height: 30rem;
+    margin-top: -30rem;
+    margin-left: 40rem;
+    cursor: pointer;
+}
+
+.card-4-2:hover {
+    box-shadow: 0 .5rem 1.3rem 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: .2rem 1.2rem;
+}
+.campuses {
+    color: rgb(20, 20, 20);
+    font-size: 1rem;
+    margin-left: 34rem;
+    float: left;
+    margin-top: 1rem;
+}
+.about {
+    color: rgb(20, 20, 20);
+    font-size: 1rem;
+    margin-left: 34rem;
+    float: left;
+    margin-top: 1rem;
+}
+.about-para-1{
+    font-size: 1rem;
+    margin-top: -49rem;
+    margin-left: 40rem;
+}
+.about-para-2{
+    font-size: 1rem;
+    margin-top: -53rem;
+    margin-left: 0rem;
+}
+.card-about-1{
+    width: 45%;
+    height: 53rem;
+    margin-top: 10rem;
+    margin-left: 2rem;
+    cursor: pointer;
+}
+.card-about-2{
+    width: 45%;
+    height: 53rem;
+    margin-top: 3rem;
+    margin-left: 52rem;
+    cursor: pointer;
+}
+
+.ft {
+ background-color:  rgb(87, 77, 201);
+    background-repeat: no-repeat;
+    width: 82rem;
+    height: 23rem;
+    margin-left: -1rem;
+    margin-top: -1rem;
+}
+.ft-1{
+    color: rgb(20, 20, 20);
+    margin-top: -20rem;
+ margin-left: 6rem;
+ font-size: 2rem;
+    cursor: pointer;
+}
+.ft-2{
+    color: rgb(20, 20, 20);
+    margin-top: -4rem;
+ margin-left: 1rem;
+ font-size: 2rem;
+    cursor: pointer;
+}
+.ft-3{
+    color: rgb(20, 20, 20);
+    margin-top: -9rem;
+ margin-left: 30rem;
+    cursor: pointer;
+}
+.ft-4{
+    color: rgb(20, 20, 20);
+    margin-top: -3.7rem;
+ margin-left: 40rem;
+    cursor: pointer;
+}
+.ft-5{
+    color: rgb(20, 20, 20);
+    margin-top: -3.7rem;
+ margin-left: 51rem;
+    cursor: pointer;
+}
+.ft-6{
+    color: rgb(20, 20, 20);
+    margin-top: 0rem;
+ margin-left: 25rem;
+    cursor: pointer;
+}
+.ft-7{
+    color: rgb(20, 20, 20);
+    margin-top: -3rem;
+ margin-left: 36rem;
+    cursor: pointer;
+}
+.ft-8{
+    color: rgb(20, 20, 20);
+    margin-top: -3rem;
+ margin-left: 43rem;
+    cursor: pointer;
+}
+.ft-9{
+    color: rgb(20, 20, 20);
+    margin-top: -3rem;
+ margin-left: 52rem;
+    cursor: pointer;
+}
